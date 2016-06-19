@@ -17,6 +17,6 @@
 * [Continuous Delivery for Elixir (Part 2 — Our Project) by Jeff Weiss](https://medium.com/@jeffweiss/continuous-delivery-for-elixir-part-2-our-project-ae6406c6a990#.9bhu75oim) - Setting up Hedwig with Hipchat
 
 #### Elixir Sips (Paid)
-* [hedwig bot framework](https://www.dailydrip.com/topics/elixir/drips/hedwig-bot-framework) - Building chatbots with Elixir.
-* [hedwig twitter bot](https://www.dailydrip.com/topics/elixir/drips/hedwig-twitter-bot) - Modifying our existing Hedwig bot to interact with Twitter via ExTwitter.
-* [supervising-hedwig-twitter](https://www.dailydrip.com/topics/elixir/drips/supervising-hedwig-twitter) - Using Task.Supervisor to supervise our chatbot's ExTwitter streams, restarting them in the event of failure.
+* [Hedwig bot framework](https://www.dailydrip.com/topics/elixir/drips/hedwig-bot-framework) - Building chatbots with Elixir.
+* [Hedwig twitter bot](https://www.dailydrip.com/topics/elixir/drips/hedwig-twitter-bot) - Modifying our existing Hedwig bot to interact with Twitter via ExTwitter.
+* [Supervising-hedwig-twitter](https://www.dailydrip.com/topics/elixir/drips/supervising-hedwig-twitter) - Using Task.Supervisor to supervise our chatbot's ExTwitter streams, restarting them in the event of failure.
