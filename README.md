@@ -11,6 +11,7 @@
 * [SMS](https://github.com/bryanjos/hedwig_sms) - A SMS Adapter powered by Twilio
 
 ## Responders
+* [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
 
 ## Resources
 #### Blog Posts
