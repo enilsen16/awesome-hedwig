@@ -9,6 +9,7 @@
 * [XMPP](https://github.com/hedwig-im/hedwig_xmpp) - A XMPP Adapter
 * [Flowdock](https://github.com/supernullset/hedwig_flowdock) - A Flowdock Adapter
 * [SMS](https://github.com/bryanjos/hedwig_sms) - A SMS Adapter powered by Twilio
+* [SendSonar](https://github.com/enilsen16/hedwig_sonar) - A SendSonar Adapter
 
 ## Responders
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
