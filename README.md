@@ -13,6 +13,7 @@
 
 ## Responders
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
+* [Api.Ai](https://github.com/enilsen16/hedwig_api_ai) - Responder for Api.Ai
 
 ## Resources
 #### Blog Posts
