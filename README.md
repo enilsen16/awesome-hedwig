@@ -5,15 +5,15 @@
 [Hedwig](https://github.com/hedwig-im/hedwig) is a chat-bot framework inspired by [Hubot](https://hubot.github.com/) written in Elixir.
 
 ## Adapters
-* [Slack](https://github.com/hedwig-im/hedwig_slack) - A Slack Adapter
-* [XMPP](https://github.com/hedwig-im/hedwig_xmpp) - A XMPP Adapter
+* [FaceBook Messenger](https://github.com/enilsen16/hedwig_messenger) - A Facebook Messenger Adapter (WIP)
 * [Flowdock](https://github.com/supernullset/hedwig_flowdock) - A Flowdock Adapter
+* [SendSonar](https://github.com/enilsen16/hedwig_sonar) - A SendSonar Adapter (WIP)
+* [Slack](https://github.com/hedwig-im/hedwig_slack) - A Slack Adapter
 * [SMS](https://github.com/bryanjos/hedwig_sms) - A SMS Adapter powered by Twilio
-* [SendSonar](https://github.com/enilsen16/hedwig_sonar) - A SendSonar Adapter
+* [XMPP](https://github.com/hedwig-im/hedwig_xmpp) - A XMPP Adapter
 
 ## Responders
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
-* [Api.Ai](https://github.com/enilsen16/hedwig_api_ai) - Responder for Api.Ai
 
 ## Resources
 #### Blog Posts
