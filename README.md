@@ -14,7 +14,7 @@
 
 ## Responders
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
-* [Simple Responders](https://github.com/trestrantham/hedwig_mopidy) - A collection of simple Responders inspired by [hubot-scripts](https://github.com/github/hubot-scripts)
+* [Simple Responders](https://github.com/labzero/hedwig_simple_responders) - A collection of simple Responders inspired by [hubot-scripts](https://github.com/github/hubot-scripts)
 
 ## Resources
 #### Blog Posts
