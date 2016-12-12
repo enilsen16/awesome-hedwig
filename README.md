@@ -16,6 +16,9 @@
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
 * [Simple Responders](https://github.com/labzero/hedwig_simple_responders) - A collection of simple Responders inspired by [hubot-scripts](https://github.com/github/hubot-scripts)
 
+## Open Source Bots
+* [ExMustang](https://github.com/techgaun/ex_mustang) - Slackbot and collection of various responders
+
 ## Resources
 #### Blog Posts
 * [Continuous Delivery for Elixir (Part 2 — Our Project) by Jeff Weiss](https://medium.com/@jeffweiss/continuous-delivery-for-elixir-part-2-our-project-ae6406c6a990#.9bhu75oim) - Setting up Hedwig with Hipchat
