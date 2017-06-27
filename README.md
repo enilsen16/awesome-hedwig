@@ -5,6 +5,7 @@
 [Hedwig](https://github.com/hedwig-im/hedwig) is a chat-bot framework inspired by [Hubot](https://hubot.github.com/) written in Elixir.
 
 ## Adapters
+* [IRC](https://github.com/jeffweiss/hedwig_irc) - A IRC Adapter
 * [FaceBook Messenger](https://github.com/enilsen16/hedwig_messenger) - A Facebook Messenger Adapter (WIP)
 * [Flowdock](https://github.com/supernullset/hedwig_flowdock) - A Flowdock Adapter
 * [SendSonar](https://github.com/enilsen16/hedwig_sonar) - A SendSonar Adapter (WIP)
@@ -13,9 +14,11 @@
 * [XMPP](https://github.com/hedwig-im/hedwig_xmpp) - A XMPP Adapter
 
 ## Responders
+* [Currency Converter](https://github.com/ryanwinchester/hedwig_currency) - Converts an amount from one currency to another
+* [Gif Me](https://github.com/stevegrossi/hedwig_giphy) - Responds with an appropriate GIF from Giphy
 * [Mopidy](https://github.com/trestrantham/hedwig_mopidy) - Responder for Mopidy
 * [Simple Responders](https://github.com/labzero/hedwig_simple_responders) - A collection of simple Responders inspired by [hubot-scripts](https://github.com/github/hubot-scripts)
-* [Gif Me](https://github.com/stevegrossi/hedwig_giphy) - Responds with an appropriate GIF from Giphy.
+* [Weather](https://github.com/ryanwinchester/hedwig_weather) - Responds with a weather forecast
 
 ## Open Source Bots
 * [ExMustang](https://github.com/techgaun/ex_mustang) - Slackbot and collection of various responders
