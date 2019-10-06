@@ -13,6 +13,7 @@
 * [SMS](https://github.com/bryanjos/hedwig_sms) - A SMS Adapter powered by Twilio
 * [XMPP](https://github.com/hedwig-im/hedwig_xmpp) - A XMPP Adapter
 * [Telegram](https://github.com/fusillicode/hedwig_telegram) - A Telegram Adapter (WIP)
+
 ## Responders
 * [Currency Converter](https://github.com/ryanwinchester/hedwig_currency) - Converts an amount from one currency to another
 * [Gif Me](https://github.com/stevegrossi/hedwig_giphy) - Responds with an appropriate GIF from Giphy
